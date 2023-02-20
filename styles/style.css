@@ -1,0 +1,16 @@
+/* Responsive for blog button */
+
+@media only screen and (max-width:496px) {
+
+    .blog-banner {
+        margin: auto !important;
+        text-align: center !important;
+    }
+
+    .blog-banner-btn {
+        text-align: center !important;
+    }
+
+}
+
+/* ------------S--> CSS Ended <----------------- */
